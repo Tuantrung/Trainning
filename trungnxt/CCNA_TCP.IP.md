@@ -59,7 +59,7 @@ Các giao thức:
 
 ## 5.2. Flow Control
 
-<img scr="C:\Users\Admin\Desktop\New folder (2)\Screenshot_7.png">
+<img src="C:\Users\Admin\Desktop\New folder (2)\Screenshot_7.png">
 
 
 
