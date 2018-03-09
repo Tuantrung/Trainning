@@ -27,3 +27,6 @@
  * Mã hóa dữ liệu cho tầng Phiên
 # 7. Tầng ứng đụng (Application)
  * Cung cấp dịch vụ cho người dùng, tạo ra môi trường giao tiếp giữa người và máy
+# 8. Đóng gói dữ liệu :
+
+<img src=" C:\Users\Admin\Desktop\FIL-Tuantrung\FIL-Tuantrung\New folder\New folder (2)\ois-sent-300x202.jpg">
