@@ -1,6 +1,6 @@
 # MÔ HÌNH OSI
 
-<img src="C:\Users\Admin\Desktop\FIL-Tuantrung\FIL-Tuantrung\New folder\New folder (2)\Screenshot_21.png">
+<img src="https://github.com/Tuantrung/FIL-Tuantrung/blob/master/New%20folder%20(2)/Screenshot_21.png">
 
 ## Mục Lục
 *

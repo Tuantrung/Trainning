@@ -39,7 +39,7 @@ Các giao thức:
 * Truyền file:
   + FTP
   + TFTP
-  + Network File System
+  + Network File System (NFS)
 * Email:
   + Simple Mail Transfer Protocol (SMTP)
 * Truy nhập từ xa
