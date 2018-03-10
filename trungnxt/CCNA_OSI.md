@@ -25,7 +25,7 @@
 # 6. Tầng Trình bày(Presentation)
  * Định dạng lại dữ liệu cho tầng ứng dụng
  * Mã hóa dữ liệu cho tầng Phiên
-# 7. Tầng ứng đụng (Application)
+# 7. Tầng ứng dụng (Application)
  * Cung cấp dịch vụ cho người dùng, tạo ra môi trường giao tiếp giữa người và máy
 # 8. Đóng gói dữ liệu :
 
